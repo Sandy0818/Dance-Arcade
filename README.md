@@ -1,5 +1,11 @@
 # Dance-Arcade
-A machine learning game where the model detects human feet 
+A machine learning game where the object detection model detects human feet at a constant pace while musi plays in the background.
+
+# Repository Struture
+
+Main branch consists all files required to run the project.
+
+Remaining branches consist of code to either train various models considered for the project or the code create data set for training and validation of models.
 
 # SETTING UP OF PROJECT ON LOCAL SYSTEM
 
